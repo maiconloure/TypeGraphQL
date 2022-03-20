@@ -1,1 +1,1 @@
-#TypeGraphQL
+# TypeGraphQL
