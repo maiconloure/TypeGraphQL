@@ -1,1 +1,2 @@
 # TypeGraphQL
+study project
